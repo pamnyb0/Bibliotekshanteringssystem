@@ -1,0 +1,14 @@
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\bin\Debug\net8.0\Bibliotekshanteringssystem.exe
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\bin\Debug\net8.0\Bibliotekshanteringssystem.deps.json
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\bin\Debug\net8.0\Bibliotekshanteringssystem.runtimeconfig.json
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\bin\Debug\net8.0\Bibliotekshanteringssystem.dll
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\bin\Debug\net8.0\Bibliotekshanteringssystem.pdb
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\obj\Debug\net8.0\Bibliotekshanteringssystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\obj\Debug\net8.0\Bibliotekshanteringssystem.AssemblyInfoInputs.cache
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\obj\Debug\net8.0\Bibliotekshanteringssystem.AssemblyInfo.cs
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\obj\Debug\net8.0\Bibliotekshanteringssystem.csproj.CoreCompileInputs.cache
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\obj\Debug\net8.0\Bibliotekshanteringssystem.dll
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\obj\Debug\net8.0\refint\Bibliotekshanteringssystem.dll
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\obj\Debug\net8.0\Bibliotekshanteringssystem.pdb
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\obj\Debug\net8.0\Bibliotekshanteringssystem.genruntimeconfig.cache
+C:\Users\pamig\OneDrive\Escritorio\Webbutveckling 2024\Grundläggande programmering\Bibliotekshanteringssystem\Bibliotekshanteringssystem\obj\Debug\net8.0\ref\Bibliotekshanteringssystem.dll
